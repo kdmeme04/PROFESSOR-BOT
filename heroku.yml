@@ -1,3 +1,3 @@
-build: kdmeme04
+build:
   docker: 
       worker: Dockerfile
