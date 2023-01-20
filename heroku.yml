@@ -1,3 +1,3 @@
 build: kdmeme02
-  docker: kdmeme04/kdmeme02
+  docker: kdmeme04
       worker: Dockerfile
